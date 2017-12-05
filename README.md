@@ -93,6 +93,7 @@
 ## 6. 카타클 - 카타클리즘
 
 [폰타클을 시작해보자 (기초조작, 타일셋, 설정)](http://gall.dcinside.com/board/view/?id=rlike&no=157178&page=2&exception_mode=recommend)
+
 [용권,호권등 소림무술의 진상에 대해 알아보자](http://gall.dcinside.com/board/view/?id=rlike&no=157387)
 
 ## 7. 드포 - 드워프 포트리스
@@ -110,7 +111,9 @@
 ### 99-1. Maru
 
 [깨작깨작 만드는 로그라이크 개발 근황](http://gall.dcinside.com/board/view/?id=rlike&no=153163)
+
 [오늘의 작업물들](http://gall.dcinside.com/board/view/?id=rlike&no=157411)
+
 [랜덤 맵 생성기 릴리즈](http://gall.dcinside.com/board/view/?id=rlike&no=157768)
 
 
